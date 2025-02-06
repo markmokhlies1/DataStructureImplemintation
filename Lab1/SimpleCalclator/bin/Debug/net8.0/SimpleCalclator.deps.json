@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "SimpleCalclator/1.0.0": {
+        "runtime": {
+          "SimpleCalclator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SimpleCalclator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
